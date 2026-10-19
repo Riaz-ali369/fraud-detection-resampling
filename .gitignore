@@ -1,0 +1,10 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Dataset files (prevents exceeding GitHub's 100MB file limit)
+data/*.csv
